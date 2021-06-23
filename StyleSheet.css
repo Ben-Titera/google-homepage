@@ -1,0 +1,33 @@
+/*#logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
