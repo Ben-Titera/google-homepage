@@ -19,5 +19,7 @@ improvement; in particular,
     --- The page doesn't react exactly how I would like while resizing it. Most of it looks good,
 	but the spacing on the footer can get a little wonky.
 
+    --- There is likely some redundant code, and I'm sure the project could be better organized.
+
 I may or may not come back and fix these issues. Right now I'm kind of beat since I did this
 whole project in pretty much a single sitting, so perhaps later I will be a little more willing.
